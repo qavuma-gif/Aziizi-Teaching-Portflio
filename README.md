@@ -9,6 +9,7 @@ This repository contains sample lessons and study guides I created for Cambridge
 - *English-Lessons/*: conversational storytelling, grammar through history
 - *History-Social-Studies/*: IGCSE modern history revision guide
 - *Islamiyat-Studies/*: Islamic history timeline
+- Geography
 
 ## Subjects I teach
 
